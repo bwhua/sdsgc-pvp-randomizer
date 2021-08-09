@@ -1,0 +1,36 @@
+{
+  "name": "sdsgc",
+  "version": "1.0.2",
+  "description": "PVP Randomizer for the mobile game Seven Deadly Sins: Grand Cross",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "/echo Test Not written"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bwhua/SDSGC_PVP.git"
+  },
+  "keywords": [
+    "seven",
+    "deadly",
+    "sins",
+    "grand",
+    "cross",
+    "pvp",
+    "randomizer"
+  ],
+  "author": "Brandon Hua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bwhua/SDSGC_PVP/issues"
+  },
+  "homepage": "https://github.com/bwhua/SDSGC_PVP#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-server": "^0.12.3"
+  }
+}
