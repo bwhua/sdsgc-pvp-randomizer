@@ -1075,7 +1075,7 @@
         "Effect": "Inflicts Secret Technique damage equal to 300% of Attack on all enemies. Damage inflicted will be effective against all Attributes."
       }
   }
-},
+  },
   "Fairy": {
     "Fairy King's Forest Elaine": {
       "Color": "Green",
@@ -5873,6 +5873,41 @@
         "Name": "Realization of Justice",
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_185_3.png",
         "Effect": "Inflicts Weak Point damage equal to 385% of Attack on one enemy."
+      }
+    },
+    "Summer Sun Roxy": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/roxy/ssrb_portrait.png",
+      "Unique": {
+        "Name": "UV Block",
+        "Image": "https://gcdatabase.com/images/characters/roxy/ssrb_passive.png",
+        "Effect": "Every time the hero's Ultimate Move gauge is completely filled, allies gain an 1 time Evasion to enemy's Attcks and Debuffs for 1 turn(s). (Excludes Death Match)"
+      },
+      "Skill 1": {
+        "Name": "Insane Surfer",
+        "Image": "https://gcdatabase.com/images/characters/roxy/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 240% of Attack on one enemy.",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy. Fills Ultimate Move Gauge by 1 orb(s).",
+        "Gold": "Inflicts damage equal to 500% of Attack on one enemy. Fills Ultimate Move Gauge by 2 orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Rubber Duck Bomb",
+        "Image": "https://gcdatabase.com/images/characters/roxy/ssrb_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts damage equal to 120% of Attack on all enemies. Disables Attack Skills for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 180% of Attack on all enemies. Disables Attack Skills for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Volcano Ash",
+        "Image": "https://gcdatabase.com/images/characters/roxy/ssrb_ult.webp",
+        "Effect": "Inflicts damage equal to 700% of Attack on one enemy and fills the Ultimate Move Gauge by 2 orb(s)."
       }
     }
   },
