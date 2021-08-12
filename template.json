@@ -1,0 +1,82 @@
+    {
+    "Normal": {
+      "Color": "",
+      "Rarity": "",
+      "Image": "",
+      "Unique": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      },
+      "Skill 1": {
+        "Name": "",
+        "Image": "",
+        "Bronze Type": "",
+        "Silver Type": "",
+        "Gold Type": "",
+        "Bronze": "",
+        "Silver": "",
+        "Gold": ""
+      },
+      "Skill 2": {
+        "Name": "",
+        "Image": "",
+        "Bronze Type": "",
+        "Silver Type": "",
+        "Gold Type": "",
+        "Bronze": "",
+        "Silver": "",
+        "Gold": ""
+      },
+      "Ultimate": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      },
+      "Combined Move": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      }
+    },
+    "Commandment/Grace": {
+      "Color": "",
+      "Rarity": "",
+      "Image": "",
+      "Unique": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      },
+      "Unique 2": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      },
+      "Skill 1": {
+        "Name": "",
+        "Image": "",
+        "Bronze Type": "",
+        "Silver Type": "",
+        "Gold Type": "",
+        "Bronze": "",
+        "Silver": "",
+        "Gold": ""
+      },
+      "Skill 2": {
+        "Name": "",
+        "Image": "",
+        "Bronze Type": "",
+        "Silver Type": "",
+        "Gold Type": "",
+        "Bronze": "",
+        "Silver": "",
+        "Gold": ""
+      },
+      "Ultimate": {
+        "Name": "",
+        "Image": "",
+        "Effect": ""
+      }
+    }
+  }
