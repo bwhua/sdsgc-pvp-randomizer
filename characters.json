@@ -2612,7 +2612,7 @@
         "Effect": "Inflicts damage equal to 420% of Defense on all enemies. Heals HP of all allies equal to 30% of the damage dealt."
       }
     },
-    "Summer Vibes Elizabeth $ Hawk": {
+    "Summer Vibes Elizabeth & Hawk": {
       "Color": "Red",
       "Rarity": "SSR",
       "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_189.png",
@@ -2651,45 +2651,46 @@
         "Image": "https://rerollcdn.com/SDSGC/skills/fate_189_4.png",
         "Effect": "Inflicts Charge damage equal to 800% of Attack on one enemy."
       },
-          "BlahBlahBlah": {
-            "Color": "Red",
-            "Rarity": "SSR",
-            "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_189.png",
-            "Unique": {
-              "Name": "Group Travel",
-              "Image": "https://rerollcdn.com/SDSGC/skills/passive_189_5.png",
-              "Effect": "Decreases allies' damage taken from all-target attacks by 10% for every Goddess hero on the battlefield. Decreases allies' damage taken from single-target attacks by 10% for every hero of Unknown race on the battlefield. (Excludes Death Match)"
-            },
-            "Skill 1": {
-              "Name": "Rolling Ham Spike",
-              "Image": "https://rerollcdn.com/SDSGC/skills/skill_189_1.png",
-              "Bronze Type": "Attack",
-              "Silver Type": "Attack",
-              "Gold Type": "Attack",
-              "Bronze": "Inflicts damage equal to 100% of Attack on all enemies and decreases skill ranks.",
-              "Silver": "Inflicts damage equal to 200% of Attack on all enemies and decreases skill ranks.",
-              "Gold": "Inflicts damage equal to 250% of Attack on all enemies, decreases skill ranks, then depletes the Ultimate Move Gauge by the number of skill rank decreases."
-            },
-            "Skill 2": {
-              "Name": "Suprise Fireworks",
-              "Image": "https://rerollcdn.com/SDSGC/skills/skill_189_2.png",
-              "Bronze Type": "Debuff",
-              "Silver Type": "Debuff",
-              "Gold Type": "Debuff",
-              "Bronze": "Decreases the Attack-related stats of all enemies by 20% for 2 turns.",
-              "Silver": "Decreases the Attack-related stats of all enemies by 30% for 2 turns.",
-              "Gold": "Decreases the Attack-related stats of all enemies by 40% for 3 turns."
-            },
-            "Ultimate": {
-              "Name": "Rush Hawk",
-              "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_189_3.png",
-              "Effect": "Inflicts Charge damage equal to 700% of Attack on one enemy."
-            },
-            "Combined Move": {
-              "Name": "Drop Mama",
-              "Image": "https://rerollcdn.com/SDSGC/skills/fate_189_4.png",
-              "Effect": "Inflicts Charge damage equal to 800% of Attack on one enemy."
-            }
+      "BlahBlahBlah": {
+        "Color": "Red",
+        "Rarity": "SSR",
+        "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_189.png",
+        "Unique": {
+          "Name": "Group Travel",
+          "Image": "https://rerollcdn.com/SDSGC/skills/passive_189_5.png",
+          "Effect": "Decreases allies' damage taken from all-target attacks by 10% for every Goddess hero on the battlefield. Decreases allies' damage taken from single-target attacks by 10% for every hero of Unknown race on the battlefield. (Excludes Death Match)"
+        },
+        "Skill 1": {
+          "Name": "Rolling Ham Spike",
+          "Image": "https://rerollcdn.com/SDSGC/skills/skill_189_1.png",
+          "Bronze Type": "Attack",
+          "Silver Type": "Attack",
+          "Gold Type": "Attack",
+          "Bronze": "Inflicts damage equal to 100% of Attack on all enemies and decreases skill ranks.",
+          "Silver": "Inflicts damage equal to 200% of Attack on all enemies and decreases skill ranks.",
+          "Gold": "Inflicts damage equal to 250% of Attack on all enemies, decreases skill ranks, then depletes the Ultimate Move Gauge by the number of skill rank decreases."
+        },
+        "Skill 2": {
+          "Name": "Suprise Fireworks",
+          "Image": "https://rerollcdn.com/SDSGC/skills/skill_189_2.png",
+          "Bronze Type": "Debuff",
+          "Silver Type": "Debuff",
+          "Gold Type": "Debuff",
+          "Bronze": "Decreases the Attack-related stats of all enemies by 20% for 2 turns.",
+          "Silver": "Decreases the Attack-related stats of all enemies by 30% for 2 turns.",
+          "Gold": "Decreases the Attack-related stats of all enemies by 40% for 3 turns."
+        },
+        "Ultimate": {
+          "Name": "Rush Hawk",
+          "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_189_3.png",
+          "Effect": "Inflicts Charge damage equal to 700% of Attack on one enemy."
+        },
+        "Combined Move": {
+          "Name": "Drop Mama",
+          "Image": "https://rerollcdn.com/SDSGC/skills/fate_189_4.png",
+          "Effect": "Inflicts Charge damage equal to 800% of Attack on one enemy."
+        }
+      }
     }
   },
   "Human": {
