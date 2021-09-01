@@ -2651,6 +2651,46 @@
         "Image": "https://rerollcdn.com/SDSGC/skills/fate_189_4.png",
         "Effect": "Inflicts Charge damage equal to 800% of Attack on one enemy."
       }
+    },
+    "Covenant of light Ludociel": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Distorted Holiness",
+        "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_passive.png",
+        "Effect": "Increases the Basic Stats of Goddess race allies by 8% every time an ally uses a Stance or Buff skill. (Limit 5 times, applies when entering battle)"
+      },
+      "Unique 2": {
+        "Name": "Grace of Flash",
+        "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_grace.webp",
+        "Effect": "When attacking using skills, for every Stance or Buff effect on the enemy, increases the hero's Attack by 5%. (Activates before skill use)"
+      },
+      "Skill 1": {
+        "Name": "Holy Blade",
+        "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Charge damage equal to 130% of Attack on all enemies.",
+        "Silver": "Inflicts Charge damage equal to 195% of Attack on all enemies.",
+        "Gold": "Inflicts Charge damage equal to 325% of Attack on all enemies."
+      },
+      "Skill 2": {
+        "Name": "Breath of Bless",
+        "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Removes Debuffs from all allies. Increases damage dealt to enemies by 30%, decreases damage taken from enemies by 20% for 2 turn(s).",
+        "Silver": "Removes Debuffs from all allies. Increases damage dealt to enemies by 45%, decreases damage taken from enemies by 30% for 2 turn(s).",
+        "Gold": "Removes Debuffs from all allies. Increases the Basic Stats of all allies by 20% for 3 turn(s). Increases damage dealt to enemies by 50%, decreases damage taken from enemies by 40% for 3 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Opening Greeting",
+        "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_ult.png",
+        "Effect": "Inflicts Sever damage equal to 630% of Attack on one enemy. At 6/6: Blocks all skill effects including those of Ultimate Moves and decreases Ultiamte Move damage by 30% for 2 turn(s)."
+      }
     }
   },
   "Human": {
