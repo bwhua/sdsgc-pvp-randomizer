@@ -1074,7 +1074,42 @@
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_183_3.png",
         "Effect": "Inflicts Secret Technique damage equal to 300% of Attack on all enemies. Damage inflicted will be effective against all Attributes."
       }
-  }
+    },
+    "Napping Reaper Cusack": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_192.png",
+      "Unique": {
+        "Name": "Swordmaster",
+        "Image": "https://rerollcdn.com/SDSGC/skills/passive_192_4.png",
+        "Effect": "If a critical strike does not occur when a Demon ally uses a single-target skill on the enemy, inflicts additional damage equal to 40% of the enemy's increased Max HP in PVP. (Activates when entering battle)"
+      },
+      "Skill 1": {
+        "Name": "Demonic Blade",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_192_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Evil Sword Beam",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_192_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb.",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb.",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orbs."
+      },
+      "Ultimate": {
+        "Name": "Resonant",
+        "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_192_3.png",
+        "Effect": "Inflicts Power Strike damage equal to 560% of Attack on one enemy."
+      }
+    }
   },
   "Fairy": {
     "Fairy King's Forest Elaine": {
@@ -2118,6 +2153,41 @@
         "Name": "Prison Grip",
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_135_3.png",
         "Effect": "Inflicts damage equal to 560% of Attack on one enemy, decreases skill ranks, then depletes the Ultimate Move Gauge by the number of skill rank decreases."
+      }
+    },
+    "Ragnarok Diane": {
+      "Color": "Greem",
+      "Rarity": "SSR",
+      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_193.png",
+      "Unique": {
+        "Name": "Magic of the Earth",
+        "Image": "https://rerollcdn.com/SDSGC/skills/passive_193_4.png",
+        "Effect": "In PVP, removes up to 3 Buffs and Debuffs on the enemy when the hero uses a skill. For each Buff or Debuff removed by this effect, increases damage dealt by 40%. (Applies when entering battle, excludeds PVP and Death Match)"
+      },
+      "Skill 1": {
+        "Name": "Tripple Thrust",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_193_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 240% of Attack on one enemy.",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy. Fills Ultimate Move Gauge by 1 orb.",
+        "Gold": "Inflicts damage equal to 500% of Attack on one enemy. Fills Ultimate Move Gauge by 2 orbs."
+      },
+      "Skill 2": {
+        "Name": "Rock Blast",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_193_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 220% of Attack on one enemy.",
+        "Silver": "Inflicts damage equal to 220% of Attack on one enemy. Disables Attack Skills for 1 turn.",
+        "Gold": "Inflicts damage equal to 360% of Attack on one enemy. Disables Attack Skills for 2 turns."
+      },
+      "Ultimate": {
+        "Name": "Giantize",
+        "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_193_3.png",
+        "Effect": "Increases all allies' damage dealt by 7% for 2 turns. Inflicts damage equal to 500% of Attack on all enemies."
       }
     }
   },
@@ -5987,6 +6057,41 @@
         "Name": "Volcano Ash",
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_186_3.png",
         "Effect": "Inflicts damage equal to 700% of Attack on one enemy and fills the Ultimate Move Gauge by 2 orb(s)."
+      }
+    },
+    "Guardian of Battlefield Brynhildr": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_194.png",
+      "Unique": {
+        "Name": "Spear of Victory",
+        "Image": "https://rerollcdn.com/SDSGC/skills/passive_194_4.png",
+        "Effect": "Increases the hero's Basic Stats by 12% for every alive ally in battle. Increases the hero's all stats by 8% when an ally dies. (Applies when entering battle, excludeds PVP and Death Match)"
+      },
+      "Skill 1": {
+        "Name": "Nimble Spear",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_194_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Detonate damage equal to 160% of Attack on one enemy.Inflicts Detonate damage equal to 160% of Attack on one enemy.",
+        "Silver": "Inflicts Detonate damage equal to 240% of Attack on one enemy.",
+        "Gold": "Inflicts Detonate damage equal to 400% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Staver Rush",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_194_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Power Strike damage equal to 190% of Attack on one enemy.",
+        "Silver": "Inflicts Power Strike damage equal to 285% of Attack on one enemy.",
+        "Gold": "Inflicts Power Strike damage equal to 475% of Attack on one enemy."
+      },
+      "Ultimate": {
+        "Name": "Valkyrie Strike",
+        "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_194_3.png",
+        "Effect": "Inflicts damage equal to 490% of Attack on one enemy and restores the HP of all allies by 30% of damage dealt."
       }
     }
   },
