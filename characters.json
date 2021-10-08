@@ -6093,6 +6093,76 @@
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_194_3.png",
         "Effect": "Inflicts damage equal to 490% of Attack on one enemy and restores the HP of all allies by 30% of damage dealt."
       }
+    },
+    "Blade in the Dark Mono": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/mono/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Dark Shadow",
+        "Image": "https://gcdatabase.com/images/characters/mono/ssrg_passive.png",
+        "Effect": "If allies in battle are all <The Seven Catastrophes>, when allies receive damage from attack skills, increases all of the hero's stats by 3%. (Limit 10 times, applies when entering battle, resets when there are other heroes on field.)"
+      },
+      "Skill 1": {
+        "Name": "Shadow Assassin",
+        "Image": "https://gcdatabase.com/images/characters/mono/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Spike damage equal to 160% of Attack on one enemy.",
+        "Silver": "Inflicts Spike damage equal to 240% of Attack on one enemy.",
+        "Gold": "Inflicts Spike damage equal to 400% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Edge of Darkness",
+        "Image": "https://gcdatabase.com/images/characters/mono/ssrg_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Sever damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts Sever damage equal to 180% of Attack on all enemies.",
+        "Gold": "Inflicts Sever damage equal to 300% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Endless Pain",
+        "Image": "https://gcdatabase.com/images/characters/mono/ssrg_ult.webp",
+        "Effect": "Inflicts damage equal to 455% of Attack on one enemy. Makes target(s) Bleed for 2 turn(s)."
+      }
+    },
+    "Empress of the Sea Eastin": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Ruler of the Ocean",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrr_passive.png",
+        "Effect": "Reduces the damage taken for <The Seven Catastrophes> allies by 3% for every ultimate move gauge orb in battle."
+      },
+      "Skill 1": {
+        "Name": "Abyss Explosion",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 250% of Attack on one enemy and depletes 2 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Phalanx Squad",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrr_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 140% of Attack on all enemies. Applies Oxidation on the enemy for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 210% of Attack on all enemies. Applies Oxidation on the enemy for 2 turn(s).",
+        "Gold": "Inflicts damage equal to 350% of Attack on all enemies. Applies Oxidation on the enemy for 3 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Queen's Amusement",
+        "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrr_ult.png",
+        "Effect": "Inflicts Flood damage equal to 560% of Attack on one enemy."
+      }
     }
   },
   "Unknown": {
