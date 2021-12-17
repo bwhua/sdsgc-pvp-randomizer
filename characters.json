@@ -1762,6 +1762,41 @@
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_148_3.png",
         "Effect": "Inflicts damage equal to 300% of Attack on all enemies. Apply Abyss effect on the hero and receives 50% less damage for 2 turns."
       }
+    },
+    "Protector King Harlequin": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_portrait.png",
+      "Unique": {
+        "Name": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_passive.png",
+        "Image": "Pollen Garden",
+        "Effect": "When the hero uses a skill, increases damage dealt to enemies by 30%, then create a barrier around all allies equal to 15% of damage dealt for 1 turn. Decreases damage taken by 100% and increases damage dealt by 25%. (Applies when entering battle, excludes Death Match)"
+      },
+      "Skill 1": {
+        "Name": "True Spirit Spear Chastiefol, Fifth Form: Increase",
+        "Image": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Power Strike damage equal to 110% of Attack on all enemies.",
+        "Silver": "Inflicts Power Strike damage equal to 165% of Attack on all enemies.",
+        "Gold": "Inflicts Power Strike damage equal to 275% of Attack on all enemies."
+      },
+      "Skill 2": {
+        "Name": "True Spirit Spear Chastiefol, First Form: Chastiefol",
+        "Image": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Sever damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts Sever damage equal to 180% of Attack on all enemies.",
+        "Gold": "Inflicts Sever damage equal to 300% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "True Spirit Spear Chastiefol, Fourth Form: Sunflower",
+        "Image": "https://gcdatabase.com/images/characters/fairy_king_harlequin/ssrb_ult.png",
+        "Effect": "Cancels Debuffs on allies and Buffs on enemies, for every Buff cancelled on the enemy, increases damage received by 2% for 1 turn. Inflicts damage equal to 400% of Attack on all enemies."
+      }
     }
   },
   "Giant": {
@@ -2156,7 +2191,7 @@
       }
     },
     "Ragnarok Diane": {
-      "Color": "Greem",
+      "Color": "Green",
       "Rarity": "SSR",
       "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_193.png",
       "Unique": {
@@ -2188,6 +2223,76 @@
         "Name": "Giantize",
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_193_3.png",
         "Effect": "Increases all allies' damage dealt by 7% for 2 turns. Inflicts damage equal to 500% of Attack on all enemies."
+      }
+    },
+    "Mercenary Matrona": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_197.png",
+      "Unique": {
+        "Name": "Warrior's Pride",
+        "Image": "https://rerollcdn.com/SDSGC/skills/passive_197_4.png",
+        "Effect": "Increases allies' Regeneration Rate by 2% for every 1% of the hero's diminished HP."
+      },
+      "Skill 1": {
+        "Name": "Rising Rock Pillar",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_197_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Removes Buffs from one enemy and inflicts damage equal to 220% of Attack.",
+        "Silver": "Removes Buffs from one enemy and inflicts damage equal to 300% of Attack.",
+        "Gold": "Cancels Buffs and Stances on one enemy and inflicts damage equal to 400% of Attack."
+      },
+      "Skill 2": {
+        "Name": "Heavy Metal",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_197_2.png",
+        "Bronze Type": "Buff",
+        "Silver Type": "Buff",
+        "Gold Type": "Buff",
+        "Bronze": "Taunt enemies and increases Defense-related stats by 80% for 3 turns.",
+        "Silver": "Taunt enemies and increases Defense-related stats by 120% for 3 turns.",
+        "Gold": "Taunt enemies and increases Defense-related stats by 200% for 3 turns."
+      },
+      "Ultimate": {
+        "Name": "Prison Grip",
+        "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_197_3.png",
+        "Effect": "Inflicts damage equal to 560% of Attack on one enemy, decreases skill ranks, then depletes the Ultimate Move Gauge by the number of skill rank decreases."
+      }
+    },
+    "Halloween Diane": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_200.png",
+      "Unique": {
+        "Name": "Isn't that scary?",
+        "Image": "https://rerollcdn.com/SDSGC/skills/passive_200_4.png",
+        "Effect": "Increases the damage taken by enemies that used a skill by 20% for 3 turns. (Activates when entering battle, excludes Death Match. Applies before skill activation, limit 4 times)"
+      },
+      "Skill 1": {
+        "Name": "Exorcise",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_200_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Charge damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Charge damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Charge damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Shooting Pumpkin",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_200_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts damage equal to 120% of Attack on all enemies. Disables Attack Skills for 1 turn.",
+        "Gold": "Inflicts damage equal to 180% of Attack on all enemies. Disables Attack Skills for 2 turns."
+      },
+      "Ultimate": {
+        "Name": "Ascending Ground",
+        "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_200_3.png",
+        "Effect": "Inflicts Sever damage equal to 630% of Attack on one enemy."
       }
     }
   },
@@ -6163,6 +6268,156 @@
         "Image": "https://gcdatabase.com/images/characters/authority_eastin/ssrr_ult.png",
         "Effect": "Inflicts Flood damage equal to 560% of Attack on one enemy."
       }
+    },
+    "Halloween Slater": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_199.png",
+      "Unique": {
+        "Name": "Scary Halloween",
+        "Image": "https://rerollcdn.com/SDSGC/skills/passive_199_5.png",
+        "Effect": "When the hero gets attacked in PVP, decreases all damage received from Critical hits by 80%. Then increases allies' Attack by 10% for 2 turns."
+      },
+      "Skill 1": {
+        "Name": "Ghost Chase",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_199_1.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 160% of Attack on one enemy and blocks all skill effects including those of Ultimate Moves for 1 turn. (Excludes Stances and Recovery Skills)",
+        "Silver": "Inflicts damage equal to 240% of Attack on one enemy and blocks all skill effects including those of Ultimate Moves for 1 turns. (Excludes Stances and Recovery Skills)",
+        "Gold": "Inflicts damage equal to 400% of Attack on one enemy and blocks all skill effects including those of Ultimate Moves for 2 turns. (Excludes Stances and Recovery Skills)"
+      },
+      "Skill 2": {
+        "Name": "Pet Hunt",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_199_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Decreases Attack-related stats of one enemy by 20% and disables everything but Attack Skills for 2 turns.",
+        "Silver": "Decreases Attack-related stats of one enemy by 30% and disables everything but Attack Skills for 2 turns.",
+        "Gold": "Decreases Attack-related stats of one enemy by 40% and disables everything but Attack Skills for 3 turns."
+      },
+      "Ultimate": {
+        "Name": "Overpower",
+        "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_199_3.png",
+        "Effect": "Inflicts damage equal to 540% of Attack on one enemy. Infect for 2 turns."
+      },
+      "Combined Move": {
+        "Name": "Circle of Oppression",
+        "Image": "https://rerollcdn.com/SDSGC/skills/fate_199_4.png",
+        "Effect": "Inflicts damage equal to 630% of Attack on one enemy. Infect for 2 turns."
+      }
+    },
+    "KoF Terry Bogard": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/terry/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Nice Guy",
+        "Image": "https://gcdatabase.com/images/characters/terry/ssrr_passive.png",
+        "Effect": "At the start of allies' turn in PVP, applies an effect on the enemy with the highest remaining HP which decreases all stats by 20% for 1 turn(s). (Applies when entering battle)"
+      },
+      "Skill 1": {
+        "Name": "Rising Tackle",
+        "Image": "https://gcdatabase.com/images/characters/terry/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 250% of Attack on one enemy and depletes 2 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Crack Shoot",
+        "Image": "https://gcdatabase.com/images/characters/terry/ssrr_2.png",
+        "Bronze Type": "Stance",
+        "Silver Type": "Stance",
+        "Gold Type": "Stance",
+        "Bronze": "Assumes a Stance for 1 turn(s) which increases damage dealt by 20%, and inflicts damage equal to 180% of Attack via counter when an ally is attacked.",
+        "Silver": "Assumes a Stance for 2 turn(s) which increases damage dealt by 30%, and inflicts damage equal to 270% of Attack via counter when an ally is attacked.",
+        "Gold": "Assumes a Stance for 2 turn(s) which increases damage dealt by 50%, and inflicts damage equal to 450% of Attack via counter when an ally is attacked."
+      },
+      "Ultimate": {
+        "Name": "Power Geyser",
+        "Image": "https://gcdatabase.com/images/characters/terry/ssrr_ult.png",
+        "Effect": "Inflicts Power Strike damage equal to 490% of Attack on all enemies."
+      }
+    },
+    "Knight of the Holy War Howzer": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/howzer/ssrb_portrait.png",
+      "Unique": {
+        "Name": "True Leader",
+        "Image": "https://gcdatabase.com/images/characters/howzer/ssrb_passive.png",
+        "Effect": "Increases damage dealt by 30% when an ally uses a Detonate skill."
+      },
+      "Skill 1": {
+        "Name": "Concentrated Wind",
+        "Image": "https://gcdatabase.com/images/characters/howzer/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 120% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Silver": "Inflicts damage equal to 300% of Attack on one enemy and depletes 1 Ultimate Move Gauge orb(s).",
+        "Gold": "Inflicts damage equal to 450% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      },
+      "Skill 2": {
+        "Name": "Breakthrough",
+        "Image": "https://gcdatabase.com/images/characters/howzer/ssrb_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Detonate damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Detonate damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Detonate damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Rising Tornado",
+        "Image": "https://gcdatabase.com/images/characters/howzer/ssrb_ult.webp",
+        "Effect": "Inflicts damage equal to 350% of Attack on all enemies, decreases skill ranks, then depletes the Ultimate Move Gauge by the number of skill rank decreases."
+      },
+      "Combined Move": {
+        "Name": "Dragon Castle",
+        "Image": "https://gcdatabase.com/images/characters/howzer/ssrb_ult.webp",
+        "Effect": "Inflicts damage equal to 400% of Attack on all enemies, decreases skill ranks, then depletes the Ultimate Move Gauge by the number of skill rank decreases."
+      }
+    },
+    "KoF Iori Yagami": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/yagami/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Dia as it is",
+        "Image": "https://gcdatabase.com/images/characters/yagami/ssrg_passive.png",
+        "Effect": "When the hero uses a skill, damage dealt increases by 7% for every Ignite effect on the enemy. After each skill use, applies an effect on the hero (up to 5 times) which increases Attack-related stats by 6% for 3 turn(s)."
+      },
+      "Skill 1": {
+        "Name": "108 Shiki: Yamibarai",
+        "Image": "https://gcdatabase.com/images/characters/yagami/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Co-destruction damage equal to 170% of Attack on one enemy.",
+        "Silver": "Inflicts Co-destruction damage equal to 255% of Attack on one enemy.",
+        "Gold": "Inflicts Co-destruction damage equal to 425% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "100 Shiki: Oniyaki ",
+        "Image": "https://gcdatabase.com/images/characters/yagami/ssrg_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 110% of Attack on all enemies. Infects for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 180% of Attack on all enemies. Infects for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 280% of Attack on all enemies. Infects for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Kin 1211 Shiki: Yaotome",
+        "Image": "https://gcdatabase.com/images/characters/yagami/ssrg_ult.png",
+        "Effect": "Inflicts damage equal to 630% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
+      }
     }
   },
   "Unknown": {
@@ -6999,6 +7254,41 @@
         "Name": "Frost Blast",
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_190_3.png",
         "Effect": "Decreases HP-related stats of all enemies by 30% for 2 turns and inflicts damage equal to 400% of Attack on one enemy."
+      }
+    },
+    "Hi Jack! Gowther": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_195.png",
+      "Unique": {
+        "Name": "Alter Ego",
+        "Image": "https://rerollcdn.com/SDSGC/skills/passive_195_4.png",
+        "Effect": "Every time and ally uses a skill, increases all allies' Attack-related stats by 2% and Max HP by 1%. (Limit 10 times, applies when entering battle)"
+      },
+      "Skill 1": {
+        "Name": "Armor Breaker",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_195_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Crush damage equal to 180% of Attack on one enemy. When the hero has 4 or more Ultimate Move Gauge, reduces the enemy's Ultimate Move Gauge by 1 orb.",
+        "Silver": "Inflicts Crush damage equal to 270% of Attack on one enemy. When the hero has 4 or more Ultimate Move Gauge, reduces the enemy's Ultimate Move Gauge by 1 orb.",
+        "Gold": "Inflicts Crush damage equal to 450% of Attack on one enemy. When the hero has 4 or more Ultimate Move Gauge, reduces the enemy's Ultimate Move Gauge by 1 orb."
+      },
+      "Skill 2": {
+        "Name": "Hijack",
+        "Image": "https://rerollcdn.com/SDSGC/skills/skill_195_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Disables Buff Skills and Rank 2 and above Skills on all enemies; decreases Skill Ranks of all enemies at the end of the turn for 1 turn.",
+        "Silver": "Disables Buff Skills, Ultimate Move, and Rank 2 and above Skills on all enemies; decreases Skill Ranks of all enemies at the end of the turn for 1 turn.",
+        "Gold": "Disables everything including Ultimate Moves except for Debuff Skills; disables Rank 2 and above Skills on all enemies; decreases Skill Ranks of all enemies at the end of the turn for 2 turns."
+      },
+      "Ultimate": {
+        "Name": "Blackout Arrow",
+        "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_195_3.png",
+        "Effect": "Inflicts damage equal to 8% of Max HP on all enemies and Deletes 2 skills at random."
       }
     }
   }
