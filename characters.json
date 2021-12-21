@@ -6418,6 +6418,41 @@
         "Image": "https://gcdatabase.com/images/characters/yagami/ssrg_ult.png",
         "Effect": "Inflicts damage equal to 630% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
       }
+    },
+    "Illusion of Holy Night": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/awakened_lillia/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Song of Disaster",
+        "Image": "https://gcdatabase.com/images/characters/awakened_lillia/ssrb_passive.png",
+        "Effect": "For <The Seven Catastrophes> allies, inflicts additional damage equal to 10% of the hero's Max HP when using single-target attacks. Inflicts additional damage equal to 7% of the hero's Max HP when using all-target attacks."
+      },
+      "Skill 1": {
+        "Name": "Unique Present",
+        "Image": "https://gcdatabase.com/images/characters/awakened_lillia/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Flood damage equal to 200% of Attack on one enemy.",
+        "Silver": "Inflicts Flood damage equal to 300% of Attack on one enemy.",
+        "Gold": "Inflicts Flood damage equal to 500% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Shadow Illusion",
+        "Image": "https://gcdatabase.com/images/characters/awakened_lillia/ssrb_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 120% of Attack on all enemies. Depletes 1 Ultimate Move Gauge orb(s) at the end of the enemies' turn for 1 turn(s).",
+        "Silver": "Inflicts damage equal to 120% of Attack on all enemies. Depletes 2 Ultimate Move Gauge orb(s) at the end of the enemies' turn for 1 turn(s).",
+        "Gold": "Inflicts damage equal to 180% of Attack on all enemies. Depletes 2 Ultimate Move Gauge orb(s) at the end of the enemies' turn for 2 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Leviathan",
+        "Image": "https://gcdatabase.com/images/characters/awakened_lillia/ssrb_ult.webp",
+        "Effect": "Removes Buffs on all enemies and inflicts damage equal to 350% of Attack."
+      }
     }
   },
   "Unknown": {
@@ -7289,6 +7324,76 @@
         "Name": "Blackout Arrow",
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_195_3.png",
         "Effect": "Inflicts damage equal to 8% of Max HP on all enemies and Deletes 2 skills at random."
+      }
+    },
+    "Guide of Valhalla Megellda": {
+      "Color": "Blue",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/megellda/ssrb_portrait.png",
+      "Unique": {
+        "Name": "Wanna Come with mM?",
+        "Image": "https://gcdatabase.com/images/characters/megellda/ssrb_passive.png",
+        "Effect": "In Hraesvelgr's Demonic Beast Battle, every time an ally's remaining HP is full, applies 1 effect on that hero which increases all stats by 8% for 5 turn(s), stacking up to 5 times."
+      },
+      "Skill 1": {
+        "Name": "Raining Swords of Light",
+        "Image": "https://gcdatabase.com/images/characters/megellda/ssrb_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Amplify damage equal to 180% of Attack on one enemy.",
+        "Silver": "Inflicts Amplify damage equal to 270% of Attack on one enemy.",
+        "Gold": "Inflicts Amplify damage equal to 450% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Valkrie's Prayer",
+        "Image": "https://gcdatabase.com/images/characters/megellda/ssrb_2.png",
+        "Bronze Type": "Heal",
+        "Silver Type": "Heal",
+        "Gold Type": "Heal",
+        "Bronze": "Heals HP of all allies equal to 130% of Attack. Rejuvenates for 1 turn(s).",
+        "Silver": "Heals HP of all allies equal to 195% of Attack. Rejuvenates for 1 turn(s).",
+        "Gold": "Heals HP of all allies equal to 325% of Attack. Rejuvenates for 1 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Blundering",
+        "Image": "https://gcdatabase.com/images/characters/megellda/ssrb_ult.png",
+        "Effect": "Inflicts Power Strike damage equal to 630% of Attack on one enemy."
+      }
+    },
+    "Ragnarok Merlin": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/truthseeker_merlin/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Chain Reaction",
+        "Image": "https://gcdatabase.com/images/characters/truthseeker_merlin/ssrg_passive.png",
+        "Effect": "Increases all enemies' damage taken from Shock Debuff by 25%. Increases damage taken by 20% while affected by Shock Debuff."
+      },
+      "Skill 1": {
+        "Name": "Lightning Field",
+        "Image": "https://gcdatabase.com/images/characters/truthseeker_merlin/ssrg_1.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Inflicts damage equal to 86% of Attack on all enemies. Shocks for 4 turn(s).",
+        "Silver": "Inflicts damage equal to 129% of Attack on all enemies. Shocks for 4 turn(s).",
+        "Gold": "Inflicts damage equal to 215% of Attack on all enemies. Shocks for 4 turn(s)."
+      },
+      "Skill 2": {
+        "Name": "Blizzard Tornado",
+        "Image": "https://gcdatabase.com/images/characters/truthseeker_merlin/ssrg_2.png",
+        "Bronze Type": "Debuff",
+        "Silver Type": "Debuff",
+        "Gold Type": "Debuff",
+        "Bronze": "Decreases Defense-related stats of one enemy by 20% and Disables Recovery and Buff Skills for 2 turn(s).",
+        "Silver": "Decreases Defense-related stats of one enemy by 30% and Disables Recovery, Stance and Buff Skills for 2 turn(s).",
+        "Gold": "Decreases Defense-related stats of one enemy by 50% and Disables everything but Debuff Skills for 3 turn(s)."
+      },
+      "Ultimate": {
+        "Name": "Frost Blast",
+        "Image": "https://gcdatabase.com/images/characters/truthseeker_merlin/ssrg_ult.png",
+        "Effect": "Decreases HP-related stats of all enemies by 30% for 2 turn(s) and inflicts damage equal to 400% of Attack on one enemy."
       }
     }
   }

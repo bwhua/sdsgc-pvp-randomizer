@@ -13,7 +13,7 @@ A fan-made PVP Randomizer for the online game Seven Deadly Sins: Grand Cross
 - I do not own the rights to either Seven Deadly Sins the animation or Seven Deadly Sins: Grand Cross.
 
 ## Latest Character Added: 
-### Protector King Harlequin
+### Illusion of Holy Night
 
 ## FAQ
 - What if a character isn't showing up?
