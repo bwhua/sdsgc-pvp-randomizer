@@ -1109,6 +1109,41 @@
         "Image": "https://rerollcdn.com/SDSGC/skills/ultimate_192_3.png",
         "Effect": "Inflicts Power Strike damage equal to 560% of Attack on one enemy."
       }
+    },
+    "Traitor Meliodas": {
+      "Color": "Darkness",
+      "Rarity": "Meliodas",
+      "Image": "https://gcdatabase.com/images/characters/traitor_meliodas/ssrd_portrait.png",
+      "Unique": {
+        "Name": "Offense-Defense",
+        "Image": "https://gcdatabase.com/images/characters/traitor_meliodas/ssrd_passive.png",
+        "Effect": "Every time allies use single-target attack skills, all of the hero's stats are increased by 6% for 3 turns, stacking up to 5 times. If 2 or more single-target attack skills are used in a single turn, allies' damage taken from enemies decreases by 8%, stacking up to 40%."
+      },
+      "Skill 1": {
+        "Name": "Chest Cuts",
+        "Image": "https://gcdatabase.com/images/characters/traitor_meliodas/ssrd_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Amplify damage equal to 180% of Attack on one enemy.",
+        "Silver": "Inflicts Amplify damage equal to 270% of Attack on one enemy.",
+        "Gold": "Inflicts Amplify damage equal to 450% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Spinning Slash",
+        "Image": "https://gcdatabase.com/images/characters/traitor_meliodas/ssrd_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Pierce damage equal to 100% of Attack on all enemies.",
+        "Silver": "Inflicts Pierce damage equal to 150% of Attack on all enemies.",
+        "Gold": "Inflicts Pierce damage equal to 250% of Attack on all enemies."
+      },
+      "Ultimate": {
+        "Name": "Apocalypse",
+        "Image": "https://gcdatabase.com/images/characters/traitor_meliodas/ssrd_ult.png",
+        "Effect": "Removes Buffs and Stances on all enemies. Decreases enemies' all stats by 5% for 2 turn(s) and inflict Cleave damage equal to 585% of Attack on all enemies."
+      }
     }
   },
   "Fairy": {
@@ -6419,7 +6454,7 @@
         "Effect": "Inflicts damage equal to 630% of Attack on one enemy and depletes 3 Ultimate Move Gauge orb(s)."
       }
     },
-    "Illusion of Holy Night": {
+    "Illusion of Holy Night Lilia": {
       "Color": "Blue",
       "Rarity": "SSR",
       "Image": "https://gcdatabase.com/images/characters/awakened_lillia/ssrb_portrait.png",
@@ -6452,6 +6487,41 @@
         "Name": "Leviathan",
         "Image": "https://gcdatabase.com/images/characters/awakened_lillia/ssrb_ult.webp",
         "Effect": "Removes Buffs on all enemies and inflicts damage equal to 350% of Attack."
+      }
+    },
+    "Starry Night's Illusion Danafor Liz": {
+      "Color": "Red",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/liz/ssrr_portrait.png",
+      "Unique": {
+        "Name": "Suprise!",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrr_passive.png",
+        "Effect": "When an ally uses a skill in Time Limit Dungeon, deals additional damage equal to 40% of the enemy's HP increased by a Unique or Buff."
+      },
+      "Skill 1": {
+        "Name": "Blessing Ribbon",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrr_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Shatter damage equal to 180% of Attack on one enemy.",
+        "Silver": "Inflicts Shatter damage equal to 270% of Attack on one enemy.",
+        "Gold": "Inflicts Shatter damage equal to 450% of Attack on one enemy."
+      },
+      "Skill 2": {
+        "Name": "Gift for You",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrr_2.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts damage equal to 240% of Attack on one enemy.",
+        "Silver": "Inflicts damage equal to 360% of Attack on one enemy.",
+        "Gold": "Inflicts damage equal to 600% of Attack on one enemy."
+      },
+      "Ultimate": {
+        "Name": "Last Attack",
+        "Image": "https://gcdatabase.com/images/characters/liz/ssrr_ult.webp",
+        "Effect": "Inflicts Shatter damage equal to 630% of Attack on one enemy."
       }
     }
   },
