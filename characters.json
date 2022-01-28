@@ -2901,6 +2901,46 @@
         "Image": "https://gcdatabase.com/images/characters/margaret_ludociel/ssrb_ult.png",
         "Effect": "Inflicts Sever damage equal to 630% of Attack on one enemy. At 6/6: Blocks all skill effects including those of Ultimate Moves and decreases Ultiamte Move damage by 30% for 2 turn(s)."
       }
+    },
+    "Advent of Tornado Sariel": {
+      "Color": "Green",
+      "Rarity": "SSR",
+      "Image": "https://gcdatabase.com/images/characters/covenant_of_light_sariel/ssrg_portrait.png",
+      "Unique": {
+        "Name": "Updraft",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_sariel/ssrg_passive.png",
+        "Effect": "Increases the <The Four Archangels> allies' Crit Damage by 8% for every Buff effect on the battlefield (Limit 5 times)."
+      },
+      "Unique 2": {
+        "Name": "Grace of Tornado",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_sariel/ssrg_grace.png",
+        "Effect": "When the hero uses a skill, decreases all enemies' Crit Chance by 3% and Crit Damage by 8% for 2 turn(s) (Limit 5 times)."
+      },
+      "Skill 1": {
+        "Name": "Wind Explosion",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_sariel/ssrg_1.png",
+        "Bronze Type": "Attack",
+        "Silver Type": "Attack",
+        "Gold Type": "Attack",
+        "Bronze": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 120% of Attack on all enemies.",
+        "Silver": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 180% of Attack on all enemies.",
+        "Gold": "Inflicts Cleave damage, which does not activate Crit Damage, equal to 300% of Attack on all enemies."
+      },
+      "Skill 2": {
+        "Name": "Tornado",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_sariel/ssrg_2.png",
+        "Bronze Type": "Stance",
+        "Silver Type": "Stance",
+        "Gold Type": "Stance",
+        "Bronze": "Assumes a Stance for 1 turn(s) which Taunts enemies and inflicts damage equal to 240% of Attack when taking attacks.",
+        "Silver": "Assumes a Stance for 2 turn(s) which Taunts enemies and reduces damage taken from attacks by 40%. Inflicts damage equal to 350% of Attack when taking attacks.",
+        "Gold": "Assumes a Stance for 2 turn(s) which Taunts enemies and increases damage dealt by 60%, reduces damage taken from attacks by 60%. Inflicts damage equal to 450% of Attack when taking attacks."
+      },
+      "Ultimate": {
+        "Name": "Tornado",
+        "Image": "https://gcdatabase.com/images/characters/covenant_of_light_sariel/ssrg_ult.png",
+        "Effect": "Inflicts Suppress damage equal to 300% of Attack on all enemies."
+      }
     }
   },
   "Human": {
@@ -5006,7 +5046,7 @@
     },
     "Weird Fangs Jude": {
       "Color": "Red",
-      "Rarity": "SSR",
+      "Rarity": "R",
       "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_45.png",
       "Unique": {
         "Name": "Torture",
@@ -5179,7 +5219,7 @@
         "Effect": "Inflicts damage equal to 350% of Attack on all enemies, decreases skill ranks, then depletes the Ultimate Move Gauge by the number of skill rank decreases."
       }
     },
-    "Advent of Distruction Lilia": {
+    "Advent of Destruction Lilia": {
       "Color": "Red",
       "Rarity": "SSR",
       "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_150.png",
@@ -5389,7 +5429,7 @@
         "Effect": "Inflicts damage equal to 455% of Attack on one enemy. Makes target Bleed for 2 turns."
       }
     },
-    "Advent of Distruction Mono": {
+    "Advent of Destruction Mono": {
       "Color": "Blue",
       "Rarity": "SSR",
       "Image": "https://rerollcdn.com/SDSGC/portraits/portrait_161.png",
